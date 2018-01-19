@@ -9,4 +9,4 @@ Easy download [https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k
 
 
 ## References
-[1] (Brian McMahan, Delip Rao - arXiv:1710.08377v1)[https://arxiv.org/abs/1710.08377v1]
+[1] [Brian McMahan, Delip Rao - arXiv:1710.08377v1](https://arxiv.org/abs/1710.08377v1)
