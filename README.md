@@ -4,7 +4,7 @@ Code for TensorFlow Speech Recognition Challenge on Kaggle
 
 Based on Listening to the World Improves Speech Command Recognition [1]
 
-Easy download [https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html](UrbanSound8k) dataset with 
+Easy download [UrbanSound8k dataset](https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html) with 
 `wget https://serv.cusp.nyu.edu/files/jsalamon/datasets/UrbanSound8K.tar.gz`
 
 
