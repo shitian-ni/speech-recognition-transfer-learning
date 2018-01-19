@@ -1,10 +1,8 @@
 # speech-recognition-transfer-learning
 
-Code for TensorFlow Speech Recognition Challenge on Kaggle
-
-Based on Listening to the World Improves Speech Command Recognition [1]
-
-Transfer learning from [UrbanSound8k dataset](https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html) to [Speech Commands dataset](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data)[2]
+Code for TensorFlow Speech Recognition Challenge on Kaggle  
+Based on Listening to the World Improves Speech Command Recognition[1]  
+Transfer learning from [UrbanSound8k dataset](https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html) to [Speech Commands dataset](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data)[2]  
 
 Easy download UrbanSound8k dataset with  
 `wget https://serv.cusp.nyu.edu/files/jsalamon/datasets/UrbanSound8K.tar.gz`
